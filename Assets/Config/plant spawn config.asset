@@ -1,0 +1,166 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18ad049b6204f3f4cbdf8a117a43d880, type: 3}
+  m_Name: plant spawn config
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects:
+    - {fileID: 3498827140072530005, guid: d3ac64e484c3a4c4e93a5f932bae51ca, type: 3}
+    - {fileID: 7379391671285957710, guid: a5109e1321fc3114e8e2264b33c6e94d, type: 3}
+    - {fileID: 6717340967379283561, guid: 0e8ab4362517fb54a889474b3a926ef2, type: 3}
+    - {fileID: 7371256779361970975, guid: 6e488c720b31f6f4e8f58a04252573be, type: 3}
+    - {fileID: 9004846391056405562, guid: af3bccbc0720a2c4c8431dd994bcfcbb, type: 3}
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: spawnConfigDic
+      Entry: 7
+      Data: 0|System.Collections.Generic.Dictionary`2[[MapCoordinateType, Assembly-CSharp],[System.Collections.Generic.List`1[[MapPlantSpawnConfigModel,
+        Assembly-CSharp]], mscorlib]], mscorlib
+    - Name: comparer
+      Entry: 7
+      Data: 1|System.Collections.Generic.EnumEqualityComparer`1[[MapCoordinateType,
+        Assembly-CSharp]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 0
+    - Name: $v
+      Entry: 7
+      Data: 2|System.Collections.Generic.List`1[[MapPlantSpawnConfigModel, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 6
+    - Name: 
+      Entry: 7
+      Data: 3|MapPlantSpawnConfigModel, Assembly-CSharp
+    - Name: IsEmpty
+      Entry: 5
+      Data: true
+    - Name: Prefab
+      Entry: 6
+      Data: 
+    - Name: Probability
+      Entry: 3
+      Data: 71
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 4|MapPlantSpawnConfigModel, Assembly-CSharp
+    - Name: IsEmpty
+      Entry: 5
+      Data: false
+    - Name: Prefab
+      Entry: 10
+      Data: 0
+    - Name: Probability
+      Entry: 3
+      Data: 8
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 5|MapPlantSpawnConfigModel, Assembly-CSharp
+    - Name: IsEmpty
+      Entry: 5
+      Data: false
+    - Name: Prefab
+      Entry: 10
+      Data: 1
+    - Name: Probability
+      Entry: 3
+      Data: 8
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 6|MapPlantSpawnConfigModel, Assembly-CSharp
+    - Name: IsEmpty
+      Entry: 5
+      Data: false
+    - Name: Prefab
+      Entry: 10
+      Data: 2
+    - Name: Probability
+      Entry: 3
+      Data: 8
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 7|MapPlantSpawnConfigModel, Assembly-CSharp
+    - Name: IsEmpty
+      Entry: 5
+      Data: false
+    - Name: Prefab
+      Entry: 10
+      Data: 3
+    - Name: Probability
+      Entry: 3
+      Data: 3
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 8|MapPlantSpawnConfigModel, Assembly-CSharp
+    - Name: IsEmpty
+      Entry: 5
+      Data: false
+    - Name: Prefab
+      Entry: 10
+      Data: 4
+    - Name: Probability
+      Entry: 3
+      Data: 2
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
